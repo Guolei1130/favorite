@@ -16,3 +16,10 @@ collect useful link or github repo
 
 * [smartTable](https://github.com/huangyanbin/smartTable)
 * [TableView](https://github.com/evrencoskun/TableView)
+
+
+##### 面试相关
+
+* [interviews java方向](https://github.com/kdn251/interviews)
+* [设计模式 java版](https://github.com/iluwatar/java-design-patterns)
+
