@@ -30,3 +30,6 @@ collect useful link or github repo
 * [interviews java方向](https://github.com/kdn251/interviews)
 * [设计模式 java版](https://github.com/iluwatar/java-design-patterns)
 
+##### 工具相关
+
+* [use_vim_as_ide](https://github.com/yangyangwithgnu/use_vim_as_ide)
