@@ -46,3 +46,4 @@ collect useful link or github repo
 ##### awesome系列
 
 * [区块链](https://github.com/chaozh/awesome-blockchain)
+* [区块链](https://github.com/LiuBoyu/blockchain)
