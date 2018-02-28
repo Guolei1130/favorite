@@ -2,18 +2,11 @@
 collect useful link or github repo
 
 
-##### dialog 
+##### View
 
 * [Alerter](https://github.com/Tapadoo/Alerter)
-
-
-##### 刷新相关
-
+* [CityPicker](https://github.com/zaaach/CityPicker)
 * [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)
-
-
-##### 表格
-
 * [smartTable](https://github.com/huangyanbin/smartTable)
 * [TableView](https://github.com/evrencoskun/TableView)
 
