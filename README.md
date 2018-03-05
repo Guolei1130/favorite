@@ -37,6 +37,16 @@ collect useful link or github repo
     3. [packer-ng-plugin不支持V2](https://github.com/mcxiaoke/packer-ng-plugin)
 * [搜集Android应用信息](https://github.com/bihe0832/Android-GetAPKInfo)
 
+##### 开源项目
+
+* 播放器
+    - [android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer)
+    
+    - [Timber](https://github.com/naman14/Timber)
+    - [remusic](https://github.com/aa112901/remusic)
+    - [ListenerMusicPlayer](https://github.com/hefuyicoder/ListenerMusicPlayer)
+ 
+
 ##### awesome系列
 
 * [区块链](https://github.com/chaozh/awesome-blockchain)
