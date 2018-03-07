@@ -46,6 +46,11 @@ collect useful link or github repo
     - [remusic](https://github.com/aa112901/remusic)
     - [ListenerMusicPlayer](https://github.com/hefuyicoder/ListenerMusicPlayer)
  
+##### 跨平台
+
+* [flutter-google](https://github.com/flutter/flutter)
+* [react native -facebook](https://github.com/facebook/react-native)
+* [weex-ali](https://github.com/alibaba/weex)
 
 ##### awesome系列
 
