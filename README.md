@@ -22,6 +22,13 @@ collect useful link or github repo
 * [监控App性能](https://github.com/zkwlx/DroidTelescope)
 
 
+##### 插件化&热修复&虚拟化
+
+* [滴滴的VirtualApk](https://github.com/didi/VirtualAPK)
+* [360的Replugin](https://github.com/Qihoo360/RePlugin)
+
+
+
 ##### 面试相关
 
 * [interviews java方向](https://github.com/kdn251/interviews)
