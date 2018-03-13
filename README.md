@@ -61,5 +61,21 @@ collect useful link or github repo
 
 ##### awesome系列
 
+
+
+ 
+### 区块链资源：
+书籍：
+《区块链项目开发指南》
+《区块链核心算法解析》
+《区块链:技术驱动金融》
+《区块链革命:比特币底层技术如何改变货币、商业和世界》
+《数字货币时代:区块链技术的应用与未来》
+资料：
+
 * [区块链](https://github.com/chaozh/awesome-blockchain)
 * [区块链](https://github.com/LiuBoyu/blockchain)
+* [区块链CN](https://github.com/chaozh/awesome-blockchain-cn)
+* [bitcoinbook](https://github.com/bitcoinbook/bitcoinbook)
+* [go-ethereum](https://github.com/ethereum/go-ethereum)
+* [bitcoin-on-nodejs](https://github.com/imfly/bitcoin-on-nodejs)
