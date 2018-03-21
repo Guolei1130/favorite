@@ -34,6 +34,8 @@ collect useful link or github repo
 * [interviews java方向](https://github.com/kdn251/interviews)
 * [设计模式 java版](https://github.com/iluwatar/java-design-patterns)
 * [计算机基础](https://github.com/CyC2018/InterviewNotes?utm_source=gold_browser_extension)
+* [计算机面试需要的书籍](https://github.com/CyC2018/Interview-Notebook)
+
 
 ##### 工具相关
 
